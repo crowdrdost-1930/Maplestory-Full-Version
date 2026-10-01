@@ -247,4 +247,4 @@ This repository serves as the official landing page for MapleStory. The software
 **Get the most recent version of MapleStory today!**
 
 ---
-**Last updated:** 2026-09-30 21:16:16 UTC
+**Last updated:** 2026-10-01 01:07:14 UTC
